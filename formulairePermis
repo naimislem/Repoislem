@@ -1,0 +1,14 @@
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.1//EN&quot;
+&quot;http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;fr&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Premier fichier à mettre dans GitHub !&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+Remplir ce formulaire pour s&#39;inscrire à l&#39;apprentissage du code de la route
+&lt;br&gt;
+Nom : &lt;br&gt;
+Prenom : &lt;br&gt;
+CIN : &lt;br&gt;
+&lt;/body&gt;
+&lt;/html&gt;
